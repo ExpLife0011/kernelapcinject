@@ -1,0 +1,16 @@
+﻿生成启动时间为 2017/11/30 13:38:53。
+     1>项目“C:\Users\Administrator\Desktop\作品 包装\kernelapcinject\kernelapcinject\kernelapcinject.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2013\VC\bin\CL.exe /c /IWin7Debug\ /Zi /nologo /W0 /WX- /Od /Oi /Oy- /D _X86_=1 /D i386=1 /D STD_CALL /D DEPRECATE_DDK_FUNCTIONS=1 /D MSC_NOOPT /D _WIN32_WINNT=0x0601 /D WINVER=0x0601 /D WINNT=1 /D NTDDI_VERSION=0x06010000 /D DBG=1 /GF /Gm- /Zp8 /GS /Gy /Zc:wchar_t- /Zc:forScope- /GR- /Fo"Win7Debug\\" /Fd"Win7Debug\vc120.pdb" /Gz /wd4748 /wd4603 /wd4627 /wd4986 /wd4987 /wd4996 /FI"C:\Program Files (x86)\Windows Kits\8.1\Include\Shared\warning.h" /analyze- /errorReport:prompt /kernel -cbstring /d1import_no_registry /d2AllowCompatibleILVersions /d2Zi+ kernelAPCinject.c SSDT.c
+         kernelAPCinject.c
+     1>c:\users\administrator\desktop\作品 包装\kernelapcinject\kernelapcinject\ctl.h(189): error C2061: 语法错误: 标识符“PKTRAP_FRAME”
+     1>c:\users\administrator\desktop\作品 包装\kernelapcinject\kernelapcinject\ctl.h(265): error C2059: 语法错误:“}”
+         SSDT.c
+     1>c:\users\administrator\desktop\作品 包装\kernelapcinject\kernelapcinject\ctl.h(189): error C2061: 语法错误: 标识符“PKTRAP_FRAME”
+     1>c:\users\administrator\desktop\作品 包装\kernelapcinject\kernelapcinject\ctl.h(265): error C2059: 语法错误:“}”
+         正在生成代码...
+     1>已完成生成项目“C:\Users\Administrator\Desktop\作品 包装\kernelapcinject\kernelapcinject\kernelapcinject.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.87

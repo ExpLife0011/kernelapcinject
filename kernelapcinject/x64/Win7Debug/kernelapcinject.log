@@ -1,0 +1,10 @@
+﻿  Building 'kernelapcinject' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  kernelAPCinject.c
+  SSDT.c
+  正在生成代码...
+  kernelapcinject.vcxproj -> C:\Users\Administrator\Desktop\kernelapcinject\x64\Win7Debug\kernelapcinject.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Administrator\Desktop\kernelapcinject\x64\Win7Debug\kernelapcinject.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
